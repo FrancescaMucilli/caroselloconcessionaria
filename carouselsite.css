@@ -1,0 +1,19 @@
+body
+{
+   font-family: 'Courier New', Courier, monospace;
+   font-weight: 200px;
+  background-color: bisque;
+  }
+  #class-container-concessionaria{
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: medium;
+font-weight: 500px;
+ 
+
+  }
+  h1{
+    font-size: xx-large;
+    font-weight: 400px;
+    font-style: italic;
+    color: blue;
+  }
